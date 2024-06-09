@@ -1,0 +1,21 @@
+#image_slider_container {
+
+    /* border: 1px solid black; */
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.each-slide {
+    width: 100%;
+    text-align: center;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.wrapper img {
+    max-width: 100%;
+    max-height: 100%;
+}

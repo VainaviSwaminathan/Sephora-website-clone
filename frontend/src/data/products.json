@@ -1,0 +1,462 @@
+[
+    {
+        "id": 1,
+        "category": "makeup",
+        "type": "blush",
+        "Brand": "Rare Beauty",
+        "image": "https://www.sephora.com/productimages/sku/s2640241-main-zoom.jpg?imwidth=320",
+        "title": "Rare Beauty Liquid blush",
+        "price": 3000,
+        "description": "A weightless, long-lasting mini liquid blush that blends and builds beautifully for a soft, healthy flush."
+    },
+    {
+        "id": 2,
+        "category": "makeup",
+        "type": "lip",
+        "Brand": "Summer Fridays",
+        "image": "https://www.sephora.com/productimages/sku/s2495497-main-zoom.jpg?pb=allure-2023-bestofbeauty-badge&imwidth=500",
+        "title": "Summer Fridays lip butter",
+        "price": 2000,
+        "description": "A silky tinted vegan balm that hydrates and soothes dry lips in seconds.Comes in many shades."
+    },
+    {
+        "id": 3,
+        "category": "makeup",
+        "type": "lip",
+        "Brand": "Benefit",
+        "image": "https://www.sephora.com/productimages/sku/s2264638-main-zoom.jpg?imwidth=500",
+        "title": "Benetint lip and cheek tint",
+        "price": 2500,
+        "description": "lip and cheek tints that come in a range of shades,long-wearing, non-drying, and transfer-proof."
+    },
+    {
+        "id": 4,
+        "category": "makeup",
+        "type": "powder",
+        "Brand": "Huda Beauty",
+        "image": "https://www.sephora.com/productimages/sku/s2739415-main-zoom.jpg?imwidth=500",
+        "title": "Huda Beauty loose baking powder",
+        "price": 2000,
+        "description": "A lightly pigmented, silky setting powder that bakes & sets, blurs the look of fine lines, and locks in makeup for 10 hours with an airbrushed finish."
+    },
+    {
+        "id": 5,
+        "category": "makeup",
+        "type": "lip",
+        "Brand": "Gisou",
+        "image": "https://www.sephora.com/productimages/sku/s2683464-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "Honey infused hydratating lip oil",
+        "price": 2000,
+        "description": "A lip oil powered by Mirsalehi honey and bee garden oils to intensely hydrate lips and lock in moisture with a high-shine and non-sticky finish."
+    },
+    {
+        "id": 6,
+        "category": "makeup",
+        "type": "blush",
+        "Brand": "Rare Beauty",
+        "image": "https://www.sephora.com/productimages/sku/s2748333-main-zoom.jpg?imwidth=500",
+        "title": "Luminous Powder Blush",
+        "price": 4000,
+        "description": "A lightweight glowy blush with buildable, seamless, and silky color to keep you beaming all day."
+    },
+    {
+        "id": 7,
+        "category": "makeup",
+        "type": "lip",
+        "Brand": "Laneige",
+        "image": "https://www.sephora.com/productimages/sku/s2743060-main-zoom.jpg?imwidth=500",
+        "title": "Lip Glowy Balm",
+        "price": 1000,
+        "description": "A lightweight, moisture-rich lip balm with shea and murumuru seed butters for extra soft, hydrated, kissable lips throughout the day."
+    },
+    {
+        "id": 8,
+        "category": "makeup",
+        "type": "Foundation",
+        "Brand": "Charlotte Tilbury",
+        "image": "https://www.sephora.com/productimages/sku/s2407278-main-zoom.jpg?imwidth=500",
+        "title": "Flawless Filter Foundation",
+        "price": 1600,
+        "description": "A customizable, mini-size complexion booster that blurs, smooths, and illuminates skin for a real-life filter effect."
+    },
+    {
+        "id": 9,
+        "category": "makeup",
+        "type": "Foundation",
+        "Brand": "Too Faced",
+        "image": "https://www.sephora.com/productimages/sku/s2084408-main-zoom.jpg?imwidth=500",
+        "title": "Super Coverage Foundation",
+        "price": 2600,
+        "description": "A hydrating, full-coverage, weightless, four-in-one, concealer that conceals, contours, highlights, and retouches in a wide range of flawless shades."
+    },
+    {
+        "id": 10,
+        "category": "makeup",
+        "type": "Foundation",
+        "Brand": "Haus Labs",
+        "image": "https://www.sephora.com/productimages/sku/s2597276-main-zoom.jpg?pb=allure-2023-clean-badge&imwidth=500",
+        "title": "Medium Coverage Foundation",
+        "price": 2000,
+        "description": "A medium coverage, weightless, clean foundation with fermented arnica that helps reduce redness and protects from environmental stress."
+    },
+    {
+        "id": 11,
+        "category": "makeup",
+        "type": "powder",
+        "Brand": "Charlotte Tilbury",
+        "image": "https://www.sephora.com/productimages/sku/s2605988-main-zoom.jpg?imwidth=500",
+        "title": "Airbrush Flawless setting powder",
+        "price": 2000,
+        "description": "An ultra-fine setting powder that blurs imperfections and visibly reduces shine."
+    },
+    {
+        "id": 12,
+        "category": "skincare",
+        "type": "Toner",
+        "Brand": "Glow Recipe",
+        "image": "https://www.sephora.com/productimages/sku/s2535581-main-zoom.jpg?pb=clean-planet-aware&imwidth=250",
+        "title": "Watermelon Glow PHA+BHA toner",
+        "price": 4000,
+        "description": "A bestselling, gentle PHA- and BHA-infused watermelon toner that hydrates, gently exfoliates skin and minimizes the appearance of pores."
+    },
+    {
+        "id": 13,
+        "category": "skincare",
+        "type": "serum",
+        "Brand": "The Ordinary",
+        "image": "https://www.sephora.com/productimages/sku/s2735132-main-zoom.jpg?imwidth=500",
+        "title": "Hyaluronic Acid 2% + B5 Hydrating serum",
+        "price": 4000,
+        "description": "A reformulated hydrating serum that features five forms of hyaluronic acid, added ceramides, and a new lightweight texture."
+    },
+    {
+        "id": 14,
+        "category": "skincare",
+        "type": "cream",
+        "Brand": "Drunk Elephant",
+        "image": "https://www.sephora.com/productimages/sku/s2233849-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "Lala Retro Nourishing moisturizer",
+        "price": 5200,
+        "description": "This airy, whipped rescue cream, infused with a triple-ceramide blend and five African oils, provides daily moisture maintenance at any age."
+    },
+    {
+        "id": 15,
+        "category": "skincare",
+        "type": "Toner",
+        "Brand": "The Ordinary",
+        "image": "https://www.sephora.com/productimages/sku/s2031508-main-zoom.jpg?imwidth=500",
+        "title": "Glycolic acid toner",
+        "price": 2200,
+        "description": "A daily surface exfoliator that smooths skin texture, evens tone, and boosts luminosity."
+    },
+    {
+        "id": 16,
+        "category": "skincare",
+        "type": "Face wash",
+        "Brand": "Youth To The People",
+        "image": "https://www.sephora.com/productimages/sku/s1863588-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "Superfood antioxidant cleanser",
+        "price": 3700,
+        "description": "A pH-balanced, non-drying face cleanser formulated with antioxidants to gently yet effectively remove makeup, SPF, and excess oils that can clog pores."
+    },
+    {
+        "id": 17,
+        "category": "skincare",
+        "type": "Exfoliater",
+        "Brand": "Paula's Choice",
+        "image": "https://www.sephora.com/productimages/sku/s2421360-main-zoom.jpg?imwidth=500",
+        "title": "Skin perfecting 2% BHA exfoliant",
+        "price": 2700,
+        "description": " Best-selling 2% BHA is a gentle leave-on exfoliant with salicylic acid & green tea that unclogs pores & controls oil for clear skin. "
+    },
+    {
+        "id": 18,
+        "category": "skincare",
+        "type": "serum",
+        "Brand": "The Inkey List",
+        "image": "https://www.sephora.com/productimages/sku/s2335594-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "15% Vitamin C serum",
+        "price": 4500,
+        "description": "A skin-brightening face serum with vitamin C and plant-derived peptide EGF to target hyperpigmentation and visibly brighten dull skin."
+    },
+    {
+        "id": 19,
+        "category": "skincare",
+        "type": "Face wash",
+        "Brand": "The Ordinary",
+        "image": "https://www.sephora.com/productimages/sku/s2278091-main-zoom.jpg?imwidth=500",
+        "title": "Squaline Cleanser",
+        "price": 1500,
+        "description": "A gentle, moisturizing facial cleanser."
+    },
+    {
+        "id": 20,
+        "category": "skincare",
+        "type": "Exfoliater",
+        "Brand": "Dermalogica",
+        "image": "https://www.sephora.com/productimages/sku/s2221133-main-zoom.jpg?imwidth=500",
+        "title": "Daily Microfoliant Exfoliator",
+        "price": 2500,
+        "description": "A gentle, rice-based powder exfoliant that visibly brightens, improves the look of skin‘s texture, and clears pores."
+    },
+    {
+        "id": 21,
+        "category": "skincare",
+        "type": "cream",
+        "Brand": "Tatcha",
+        "image": "https://www.sephora.com/productimages/sku/s2181006-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "The Dewy Skin pluming cream",
+        "price": 3600,
+        "description": "A rich moisturizer that hydrates, seals in moisture, visibly plumps fine lines, and protects from skin-aging oxidative stress."
+    },
+    {
+        "id": 22,
+        "category": "haircare",
+        "type": "oil",
+        "Brand": "Gisou",
+        "image": "https://www.sephora.com/productimages/sku/s2380285-main-zoom.jpg?pb=allure-2023-bestofbeauty-badge&imwidth=500",
+        "title": "Honey infused hair oil",
+        "price": 2400,
+        "description": "A luxurious hair oil enriched with the moisture binding Gisou Mirsalehi Honey to hydrate, boost shine, and smooth frizz and flyaways."
+    },
+    {
+        "id": 23,
+        "category": "haircare",
+        "type": "conditioner",
+        "Brand": "dae",
+        "image": "https://www.sephora.com/productimages/sku/s2768778-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "Mirage Mist leave-in conditioner",
+        "price": 3400,
+        "description": "This weightless, multitasking leave-in conditioner works like a daedream to detangle, condition, prime and protect hair from heat up to 450°F/232°C"
+    },
+    {
+        "id": 24,
+        "category": "haircare",
+        "type": "conditioner",
+        "Brand": "Moroccanoil",
+        "image": "https://www.sephora.com/productimages/sku/s2395069-main-zoom.jpg?imwidth=500",
+        "title": "All-in-one leave-in conditioner",
+        "price": 2900,
+        "description": " A versatile, leave-in conditioner that hydrates, detangles, and provides up to 72 hours of softness."
+    },
+    {
+        "id": 25,
+        "category": "haircare",
+        "type": "oil",
+        "Brand": "Olaplex",
+        "image": "https://www.sephora.com/productimages/sku/s2266765-main-zoom.jpg?imwidth=500",
+        "title": "No: 7 Bonding hair oil",
+        "price": 3800,
+        "description": "A weightless styling oil for maximum shine, softness, and color vibrancy. Protects against damage, frizz, and heat for sleek, healthy-looking styles."
+    },
+    {
+        "id": 26,
+        "category": "haircare",
+        "type": "tools",
+        "Brand": "Dyson",
+        "image": "https://www.sephora.com/productimages/sku/s2766582-main-zoom.jpg?imwidth=500",
+        "title": "Airstrait Straightener",
+        "price": 7500,
+        "description": "A Dyson Airstrait™ Straightener for a limited time in Ceramic Pink and Rose gold—gift something special."
+    },
+    {
+        "id": 27,
+        "category": "haircare",
+        "type": "tools",
+        "Brand": "Shark Beauty",
+        "image": "https://www.sephora.com/productimages/sku/s2776151-main-zoom.jpg?imwidth=500",
+        "title": "Pro curls limited edition hair curler",
+        "price": 5500,
+        "description": "An ultra-versatile styler that transforms between a powerful, fast, hair dryer and a multi-styler—with no heat damage."
+    },
+    {
+        "id": 28,
+        "category": "haircare",
+        "type": "shampoo",
+        "Brand": "Olaplex",
+        "image": "https://www.sephora.com/productimages/sku/s2118867-main-zoom.jpg?imwidth=500",
+        "title": "No: 4 Bonding hair shampoo",
+        "price": 2500,
+        "description": " A hydrating shampoo that repairs and leaves hair healthier, smoother, and shinier with each use. Proven to reduce breakage and strengthen all types of hair."
+    },
+    {
+        "id": 29,
+        "category": "haircare",
+        "type": "shampoo",
+        "Brand": "OUAI",
+        "image": "https://www.sephora.com/productimages/sku/s2319820-main-zoom.jpg?imwidth=500",
+        "title": "Detox shampoo",
+        "price": 3900,
+        "description": "A clarifying shampoo that deeply cleanses away dirt, oil, and product buildup with apple cider vinegar while keratin helps strengthen hair."
+    },
+    {
+        "id": 30,
+        "category": "haircare",
+        "type": "conditioner",
+        "Brand": "OUAI",
+        "image": "https://www.sephora.com/productimages/sku/s2319903-main-zoom.jpg?imwidth=500",
+        "title": "thick hair conditioner",
+        "price": 2900,
+        "description": "For thick hair, this color-safe conditioner deeply moisturizes to fight frizz, nourish & repair. It also leaves you hair looking & smelling amazing."
+    },
+    {
+        "id": 31,
+        "category": "haircare",
+        "type": "tools",
+        "Brand": "Sephora Collection",
+        "image": "https://www.sephora.com/productimages/sku/s2414555-main-zoom.jpg?pb=2023-03-sephora-value-2023&imwidth=500",
+        "title": "Scalp massager",
+        "price": 1800,
+        "description": "An eco-friendly silicone scalp massager that’s hygienic and suitable for wet or dry use to aid in cleansing of your scalp."
+    },
+    {
+        "id": 32,
+        "category": "fragrance",
+        "type": "mist",
+        "Brand": "Sol de Janeiro",
+        "image": "https://www.sephora.com/productimages/sku/s2461812-main-zoom.jpg?imwidth=500",
+        "title": "Brazillian Crush 40 Bom mist",
+        "price": 4800,
+        "description": "An intoxicating yet delicate fragrance sparked with notes of black amber plum, vanilla woods, and jasmine blooms."
+    },
+    {
+        "id": 33,
+        "category": "fragrance",
+        "type": "Eua de Parfum",
+        "Brand": "Dior",
+        "image": "https://www.sephora.com/productimages/sku/s2467371-main-zoom.jpg?imwidth=500",
+        "title": "Miss Dior Eau de Parfum",
+        "price": 6800,
+        "description": "Floral Scent parfume"
+    },
+    {
+        "id": 34,
+        "category": "fragrance",
+        "type": "Eua de Parfum",
+        "Brand": "Glossier",
+        "image": "https://www.sephora.com/productimages/sku/s2649770-main-zoom.jpg?imwidth=500",
+        "title": "You by Glossier",
+        "price": 4800,
+        "description": "Warm & Spicy Scent parfume"
+    },
+    {
+        "id": 35,
+        "category": "fragrance",
+        "type": "mist",
+        "Brand": "Sol de Janeiro",
+        "image": "https://www.sephora.com/productimages/sku/s1930759-main-zoom.jpg?imwidth=500",
+        "title": "62 Bum Hair and Body mist",
+        "price": 4400,
+        "description": "Warm & Spicy Scent parfume"
+    },
+    {
+        "id": 36,
+        "category": "fragrance",
+        "type": "candles",
+        "Brand": "Maison Margiela",
+        "image": "https://www.sephora.com/productimages/sku/s1945948-main-zoom.jpg?imwidth=500",
+        "title": "REPLICA by fireplace scented candle",
+        "price": 2100,
+        "description": "A luxe, designer candle that warms any room in your home with the smoky, woody aroma of sitting By the Fireplace."
+    },
+    {
+        "id": 37,
+        "category": "fragrance",
+        "type": "candles",
+        "Brand": "VOLUSPA",
+        "image": "https://www.sephora.com/productimages/sku/s2369668-main-zoom.jpg?imwidth=500",
+        "title": "Spiced Pumkin Scented candle",
+        "price": 1100,
+        "description": "Warm & Spicy scented candle"
+    },
+    {
+        "id": 38,
+        "category": "fragrance",
+        "type": "Eua de Parfum",
+        "Brand": "Valentino",
+        "image": "https://www.sephora.com/productimages/sku/s2249688-main-zoom.jpg?imwidth=500",
+        "title": "Donna Born In Roma Eau de Parfum",
+        "price": 4100,
+        "description": "Floral Scent parfume"
+    },
+    {
+        "id": 39,
+        "category": "fragrance",
+        "type": "Eua de Parfum",
+        "Brand": "Prada",
+        "image": "https://www.sephora.com/productimages/sku/s2591170-main-zoom.jpg?imwidth=500",
+        "title": "Paradoxe Eau de Parfum",
+        "price": 5200,
+        "description": "Floral Scent parfume"
+    },
+    {
+        "id": 40,
+        "category": "body",
+        "type": "lotion",
+        "Brand": "Sol de Janeiro",
+        "image": "https://www.sephora.com/productimages/sku/s2205359-main-zoom.jpg?pb=2020-03-allure-best-2019&imwidth=500",
+        "title": "Glowmotion Body Oil",
+        "price": 4200,
+        "description": "A luminizing, hydrating, soft-shimmer glow oil for the body and face with a buildable, visibly blurring tint that gives a healthy-looking, visibly gorgeous glow for all skin tones."
+    },
+    {
+        "id": 41,
+        "category": "body",
+        "type": "lotion",
+        "Brand": "Rare Beauty",
+        "image": "https://www.sephora.com/productimages/sku/s2734036-main-zoom.jpg?imwidth=500",
+        "title": "Hydrating hand cream",
+        "price": 1300,
+        "description": "A fast-absorbing hand cream with a bright, uplifting scent that hydrates for up to 16 hours while softening skin with a fresh, non-greasy feel."
+    },
+    {
+        "id": 42,
+        "category": "body",
+        "type": "soap",
+        "Brand": "OUAI",
+        "image": "https://www.sephora.com/productimages/sku/s2632842-main-zoom.jpg?imwidth=500",
+        "title": "Gentle body wash",
+        "price": 2300,
+        "description": "A St. Barts tropical-scented body cleanser that cleans and softens skin with a luxurious lather for that post-vacation feel—without leaving your shower."
+    },
+    {
+        "id": 43,
+        "category": "body",
+        "type": "soap",
+        "Brand": "Salt and stone",
+        "image": "https://www.sephora.com/productimages/sku/s2759504-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "Black Rose & Oud Body Wash",
+        "price": 3200,
+        "description": " An irresistibly scented gel body cleanser infused with ocean botanicals, niacinamide, and probiotics to soften, soothe, and restore the skin."
+    },
+    {
+        "id": 44,
+        "category": "body",
+        "type": "deodorant",
+        "Brand": "Salt and stone",
+        "image": "https://www.sephora.com/productimages/sku/s2759561-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "Aluminum-free Deodorant",
+        "price": 2200,
+        "description": "An extra strength aluminum-free deodorant formulated for up to 24 hours of protection."
+    },
+    {
+        "id": 45,
+        "category": "body",
+        "type": "deodorant",
+        "Brand": "Sol de Janeiro",
+        "image": "https://www.sephora.com/productimages/sku/s2701324-main-zoom.jpg?imwidth=500",
+        "title": "Cheirosa 68 Deodorant",
+        "price": 4200,
+        "description": "An aluminum-free and baking soda-free deodorant that eliminates odor, soothes skin, and fight ingrown hairs in the fruity floral scent of Cheirosa 68."
+    },
+    {
+        "id": 46,
+        "category": "body",
+        "type": "soap",
+        "Brand": "Drunk Elephant",
+        "image": "https://www.sephora.com/productimages/sku/s2570117-main-zoom.jpg?pb=clean-at-sephora&imwidth=500",
+        "title": "Scrubbi Bamboes Body Cleanser",
+        "price": 2200,
+        "description": "An exfoliating, antioxidant-rich jelly-to-foam body cleanser that cleanses, visibly softens, hydrates, and soothes with a natural sweet vanilla scent."
+    }
+]

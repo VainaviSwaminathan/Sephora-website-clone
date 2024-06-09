@@ -1,6 +1,7 @@
 import './App.css'
 import { Navbar } from './components/navbar/navbar'
 import { AllRoutes } from './routes'
+import { Footer } from './components/footer'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Navbar />
       <AllRoutes />
+      <Footer />
     </>
   )
 
